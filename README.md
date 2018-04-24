@@ -1,4 +1,4 @@
-# typecho追番插件
+# Typecho追番插件
 
 #### 项目介绍
 本插件为通过Bangumi的API来获取追番信息。适用于Typecho!  
